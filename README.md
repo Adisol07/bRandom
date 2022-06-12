@@ -7,3 +7,6 @@ is an free, unlicensed library for generating random:<br />
   &nbsp;&nbsp;&nbsp;IPAddresses<br />
   &nbsp;&nbsp;&nbsp;Domains<br />
   &nbsp;&nbsp;&nbsp;..and more in future!<br />
+
+Frameworks: .NET6.0; .NET45
+Language: C#
